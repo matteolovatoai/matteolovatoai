@@ -61,8 +61,8 @@ This project demonstrates a full production pipeline, moving beyond simple model
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=matteolovatoai&show_icons=true&hide_border=true&theme=radical&v=1" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteolovatoai&layout=compact&hide_border=true&theme=radical&v=1" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=matteolovatoai&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteolovatoai&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
