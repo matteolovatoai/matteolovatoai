@@ -54,7 +54,7 @@ This project demonstrates a full production pipeline, moving beyond simple model
 * **Model Persistence:** Decoupled training and inference scripts for scalability.
 * **UI/UX:** Interactive frontend for real-time price estimation.
 
-[**➡️ View Project Repository**](./INSERT-LINK-TO-YOUR-REPO-HERE)
+[**➡️ View Project Repository**](https://github.com/matteolovatoai/house-price-prediction.git)
 
 ---
 
